@@ -4,3 +4,5 @@ Desafio de projeto sobre Git/GitHub
 
 ## Links Uteis
 [Basic Syntax | Markdown](https://www.markdownguide.org/basic-syntax/)
+
+* Clone foi executado com sucesso;

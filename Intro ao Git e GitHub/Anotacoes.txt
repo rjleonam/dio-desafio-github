@@ -1,0 +1,5 @@
+Link para download do Git CLI ou GUI:
+
+https://git-scm.com/downloads/
+
+Nele voce escolha a plataforma para produção;
