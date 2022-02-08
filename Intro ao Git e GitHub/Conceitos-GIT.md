@@ -20,7 +20,7 @@ Como a própria palavra diz é um clone. Esse comando serve para você clonar re
 
 Creio que aqui você fala da área de untrack files. Quando você inicia o git e logo após isso você começa a editar arquivos nessa pasta que você iniciou o git ou também coloca novas arquivos então ele fica como untrack files (arquivos não trackeados) que é arquivos não "vigiados" pelo git, ou seja, que não estão ainda na pasta .git ou que estão e foram modificados. Quando você da um git add . ou git add arquivo.extensao ele entra para o track files que significa que o git ta olhando mas ainda não está no repositório git. Só depois que você da git commit -m "descrição do commit" é que ele sai dessa área e entra totalmente para o repositório git.
 
-"Não sei se deu para entender muito bem, mas tentei explicar com minhas palavras. Segue um link para os primeiros passos no git!"
+*"Não sei se deu para entender muito bem, mas tentei explicar com minhas palavras. Segue um link para os primeiros passos no git!"*
 
 #### [1 Primeiros Passos com Git](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 #### [2 Comandos básicos do Git](http://tableless.com.br/iniciando-no-git-parte-1/)
