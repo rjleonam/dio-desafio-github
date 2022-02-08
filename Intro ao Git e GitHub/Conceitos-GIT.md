@@ -22,7 +22,7 @@ Creio que aqui você fala da área de untrack files. Quando você inicia o git e
 
 "Não sei se deu para entender muito bem, mas tentei explicar com minhas palavras. Segue um link para os primeiros passos no git!"
 
-### [1 Primeiros Passos com Git](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
+#### [1 Primeiros Passos com Git](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 #### [2 Comandos básicos do Git](http://tableless.com.br/iniciando-no-git-parte-1/)
 
 ### fonte: https://pt.stackoverflow.com/questions/143458/o-que-essas-palavras-significam-no-git-github-fork-clone-track
